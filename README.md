@@ -53,5 +53,5 @@ git push
 * Try to add colors based on the `h1` tag
 * Add headers content using `h2-h6`
 
-You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  You can also consult the FAQ pages for setting up [git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html), [configuring gh-pages](https://suwebdev.github.io/wats-lab-faq/create-gh-pages-branch-to-host-html-from-github.html) and [Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html).
+You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  You can also consult the FAQ pages for setting up [git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html), [configuring gh-pages](http://127.0.0.1:5500/docs/create-gh-pages-branch-to-host-html-from-github.html) and [Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html).
 
