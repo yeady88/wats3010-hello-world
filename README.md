@@ -30,20 +30,28 @@ body {
   background-color: black;
 }
 ```
-1. Make sure all files are saved.  Turn on Auto-Save in VS Code to help with this.
-1. Open the terminal in VS Code.  Mac users will see a "bash" terminal by default.  Windows users should configure git bash to be their default commmand line interface.
-1. Stage, Commit and Push your code to github.com with these commands
+13. Make sure all files are saved.  Turn on Auto-Save in VS Code to help with this.
+14. Preview your files locally with live-server to make sure they are what you expect.
+15. Open the terminal in VS Code.  Mac users will see a "bash" terminal by default.  Windows users should configure git bash to be their default commmand line interface.
+16. Stage, Commit and Push your code to github.com with these commands
 ```
 git add .
 git commit -m"<description of changes made>"
 git push
 ```
-1. Go to github.com and find that our files our now posted on the web.  
-1. Go to github.com setting for your repo and configure gh-pages to host your `master` branch.
-1. View your hosted file and copy the link into your buffer and note that the domain is "github.io"
-1. Go back to the Code tab of github.com and click on the "Edit" button and paste the link into the website input box.
-1. Submit both the github.com and the github.io links for your homework.
+17. Go to github.com and find that our files our now posted on the web.  
+18. Go to github.com setting for your repo and configure gh-pages to host your `master` branch.
+19. View your hosted file and copy the link into your buffer and note that the domain is "github.io"
+20. Go back to the Code tab of github.com and click on the "Edit" button and paste the link into the website input box.
+21. Submit both the github.com and the github.io links for your homework.
 
+### Expected Hosted File
+![Hello World](helloworld.png)  
+
+### Stretch goals 
+* Add another HTML page
+* Try to add colors based on the `h1` tag
+* Add headers content using `h2-h6`
 
 You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  You can also consult the FAQ pages for setting up [git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html), [configuring gh-pages](https://suwebdev.github.io/wats-lab-faq/create-gh-pages-branch-to-host-html-from-github.html) and [Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html).
 
