@@ -1,7 +1,9 @@
 Hello World
 ====================
 
-This is the Hello World assignment repository for WATS 3010. You will find everything you need to complete the Hello World assignment here.
+This is the Hello World assignment repository for WATS 3010. You will find everything you need to complete the Hello World assignment here.    
+
+[Walkthrough Video](https://youtu.be/-LGBGKoJjio)  
 
 In order to complete the assignment, you must perform a series of tasks centered around getting used to working with Git and Github. Specifically, we are going to practice forking and cloning repositories, working with branches, and how to use Github Pages.
 
@@ -53,5 +55,9 @@ git push
 * Try to add colors based on the `h1` tag
 * Add headers content using `h2-h6`
 
-You are encouraged to watch the video demo linked on the assignment resources page for more information about how to complete each of these steps.  You can also consult the FAQ pages for setting up [git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html), [configuring gh-pages](http://127.0.0.1:5500/docs/create-gh-pages-branch-to-host-html-from-github.html) and [Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html).
+You are encouraged to watch the video demo linked at the top of this page for more information about how to complete each of these steps.  You can also consult the [WATS FAQ](https://suwebdev.github.io/wats-lab-faq/) pages for 
+* [Setting up git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html) 
+* [Settign up Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html)  
+* [Configuring gh-pages](http://127.0.0.1:5500/docs/create-gh-pages-branch-to-host-html-from-github.html)  
+
 
