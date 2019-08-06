@@ -58,6 +58,6 @@ git push
 You are encouraged to watch the video demo linked at the top of this page for more information about how to complete each of these steps.  You can also consult the [WATS FAQ](https://suwebdev.github.io/wats-lab-faq/) pages for 
 * [Setting up git/github](https://suwebdev.github.io/wats-lab-faq/first-question.html) 
 * [Settign up Visual Studio Code](https://suwebdev.github.io/wats-lab-faq/second-question.html)  
-* [Configuring gh-pages](http://127.0.0.1:5500/docs/create-gh-pages-branch-to-host-html-from-github.html)  
+ 
 
 
